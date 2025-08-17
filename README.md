@@ -4,6 +4,8 @@ This is a quick start template for [Hugo Theme Chirpy](https://github.com/geekif
 
 It comes with a basic theme structure and configuration. GitHub action has been set up to deploy the theme to a public GitHub page automatically. Also, there's a cron job to update the theme automatically everyday.
 
+[Porting from Jekyll to Hugo](https://jithesh.blog/posts/blog/porting/)
+
 ## Get started
 
 1. Click *Use this template*, and create your repository as `<username>.github.io` on GitHub.
