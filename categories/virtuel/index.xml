@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Virtuel on Chirpy</title><link>https://boproyan.github.io/categories/virtuel/</link><description>Recent content in Virtuel on Chirpy</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://boproyan.github.io/categories/virtuel/index.xml" rel="self" type="application/rss+xml"/><item><title>cwwk KVM vm-alpine05</title><link>https://boproyan.github.io/post/2025-08-16-machine_virtuelle_vm-alpine05/</link><pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><guid>https://boproyan.github.io/post/2025-08-16-machine_virtuelle_vm-alpine05/</guid><description>&lt;p>&lt;em>Alpine Linux est utilisé pour héberger les applications IT-Tools - Stirling PDF - Monitoring Docker et Proxmox - Wallabag - Linkwarden&lt;/em>&lt;/p>
+&lt;p>&lt;a href="https://boproyan.github.io/post/2025-08-16-machine_virtuelle_vm-alpine05/alpine-linux-logo.png" class="popup img-link ">
+ &lt;img src="https://boproyan.github.io/post/2025-08-16-machine_virtuelle_vm-alpine05/alpine-linux-logo.png" alt="">
+&lt;/a>{:width=&amp;ldquo;300&amp;rdquo;}&lt;/p>
+&lt;h2 id="alpine-linux" id=alpine-linux>
+ 
+ &lt;span class="me-2">Alpine Linux&lt;/span>
+ &lt;a href="#alpine-linux" class="anchor text-muted">&lt;i class="fas fa-hashtag">&lt;/i>&lt;/a>
+ 
+&lt;/h2>&lt;p>&lt;em>Création machine virtuelle Alpine de type KVM avec 2 Go de RAM, 1 cœur de processeur et 5 Go de disque dur.&lt;/em>&lt;/p>
+&lt;h3 id="créer-vm-alpine05-sur-serveur-cwwk" id=créer-vm-alpine05-sur-serveur-cwwk>
+ 
+ &lt;span class="me-2">Créer vm-alpine05 sur serveur cwwk&lt;/span>
+ &lt;a href="#cr%c3%a9er-vm-alpine05-sur-serveur-cwwk" class="anchor text-muted">&lt;i class="fas fa-hashtag">&lt;/i>&lt;/a>
+ 
+&lt;/h3>&lt;p>&lt;a href="https://alpinelinux.org/downloads/">Les dernières images Alpine Linux&lt;/a>&lt;/p>
+&lt;p>Création d&amp;rsquo;une image virtuelle &lt;strong>vm-alpine05&lt;/strong> sous le serveur Lenovo rnmkcy.eu&lt;br>
+On se connecte sur le serveur Lenovo en SSH, puis on exécute la commande suivante pour créer une machine virtuelle Alpine avec 2 Go de RAM, 1 cœur de processeur et 45 Go de disque dur&lt;/p></description></item></channel></rss>
